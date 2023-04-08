@@ -1,0 +1,77 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.navbar
+  { color:white;
+     background-color:#4F1586;
+    display: flex;
+    font-weight: 600;
+    font-size:20px;
+
+
+    
+  }
+    .navbar div{
+       
+        padding:24px;
+        margin: auto;
+    }
+    .nav_group ul
+    {
+
+        display: flex;
+        list-style-type: none; 
+    }
+    .nav_group ul li
+    {
+    padding-left:38px ;
+    }
+   .body
+   {
+    /* background-color:green; */
+    
+    }
+    .contain
+    {
+    
+        /* background-color: aquamarine; */
+        width: 80%;
+        margin: auto;
+        text-align: center;
+    }
+     .contain h1
+    {
+        color: black;
+        font-size:70px;
+        font-weight: 80;
+        
+        
+        
+        
+    }
+    .contain input
+    {
+        width: 50%;
+        height: 60px;
+    }
+    .contain button
+    {
+        height: 65px;
+        width:100px;
+        background-color:#FF6201;
+    }
+    .padding{
+        padding-top: 40px;
+    }
+    .needHelp
+    {
+    
+     color: #4F1586;
+        margin-left:26%;
+        margin-top:1%;
+    }
